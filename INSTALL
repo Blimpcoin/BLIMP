@@ -1,0 +1,9 @@
+Building Blimp
+
+See doc/readme-qt.rst for instructions on building Blimp QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Blimp.
+
+See doc/build-*.txt for instructions on building blimpd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Blimp.
